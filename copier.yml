@@ -2,7 +2,7 @@ repository_owner:
   type: str
   default: nilsdebruin
 
-copier-answers:
+copier_answers:
   type: str
   default: .config
 
