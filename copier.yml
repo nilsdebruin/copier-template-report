@@ -10,5 +10,4 @@ _subdirectory: copier-template
 
 _answers_file: .copier-answers-copier-template-4afc07a0-63f3-4e21-af38-3ccbb3e92ffe.yml
 
-_exclude:
-    - ".config"
+_answers_file_location: .config
